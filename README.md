@@ -1,0 +1,1 @@
+# Raspberry-pi-pico-logitech-shifter-adapter
